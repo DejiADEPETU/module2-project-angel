@@ -1,5 +1,7 @@
 # module2-project-angel
 
+## Which 3rd party API I'm using
+www.google.com/orangechair/resaurants/
 ## Problem statement (which problem I am trying to solve)
 An apps that finds restaurant. The problem is that some users want only restaurants with orange chairs.
 ## Target users (who are the people who's problem I'm trying to solve)
